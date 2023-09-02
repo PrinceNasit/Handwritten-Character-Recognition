@@ -3,9 +3,10 @@ This project predicts handwritten character. Project is based on deep learning t
 Handwritten character recognition
 
 My group members:
-1. Jiya Nayak – 21BCE164
-2. Riya Mehta – 22BCE516
-3. Prince Nasit – 21BCE163
+1. Prince Nasit
+2. Jiya Nayak
+3. Riya Mehta 
+
 
 
 This project predicts handwritten character.
